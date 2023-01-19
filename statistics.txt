@@ -1,0 +1,5 @@
+Curriculum Ideas
+
+-Boxplots
+-Regression
+-Bayes Theorem
