@@ -1,0 +1,155 @@
+    3  $ brew install git
+    4  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    5  brew install git
+    6  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    7  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    8  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   15  git init
+   17  git init
+   35  git init
+   36  git remote add origin git@bitbucket.org:sterfry123/volume1.git
+   37  git config --local user.name "Sterfry123"
+   38  git config --local user.email "bradsh24@byu.edu"
+   39  git add --all
+   40  git commit -m "initial commit"
+   41  git push origin master
+   45  git init
+   46  git remote add origin git@bitbucket.org:sterfry123/volume2.git
+   47  git config --local user.name "Sterfry123"
+   48  git config --local user.email "bradsh24@byu.edu"
+   49  git add --all
+   50  git commit -m "initial commit"
+   51  git push origin master
+   83  #/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   85  #/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  118  git add --all
+  121  git add --all
+  122  git commit -m "initial commit"
+  123  git push origin master
+  126  git add --all
+  127  git commit -m "initial commit"
+  128  git push origin master
+  129  #/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  164  git add --all
+  165  git commit -m "initial commit"
+  166  git push origin master
+  174  git init
+  175  git remote add origingit@bitbucket.org:Sterfry123/Volume1
+  176  git add --all
+  177  git commit -m "initial commit"
+  178  git push origin master
+  179  git config --local user.name "Sterfry123"
+  180  git config --local user.email "bradsh24@byu.edu"
+  181  git add --all
+  182  git commit -m "initial commit"
+  184  git push origin master
+  187  git init
+  188  git remote add origin git@bitbucket.org:Sterfry123/Volume1.git
+  189  git add --all
+  190  git commit -m "initial commit"
+  191  git config --local user.name "Sterfry123"
+  192  git config --local user.email "bradsh24@byu.edu"
+  193  git add --all
+  194  git commit -m "initial commit"
+  198  git add --all
+  199  git commit -m "initial commit"
+  200  git init
+  201  git remote add origin git@bitbucket.org:Sterfry123/byu_vol1.git
+  202  git config --local user.name "Sterfry123"
+  203  git config --local user.email "bradsh24@byu.edu"
+  204  git add --all
+  205  git commit -m "initial commit"
+  206  git remote add origin git@bitbucket.org:sterfry123/volume1.git
+  208  git add --all
+  209  git commit -m "new commit"
+  212  git remote add origin git@bitbucket.org:sterfry123/volume1.git
+  213  git add --all
+  214  git commit -m "initial commit"
+  215  git config --local user.name "sterfry123"
+  216  git config --local user.email "bradsh24@byu.edu"
+  217  git add --all
+  218  git commit -m "initial commit"
+  219  git config --local user.name "sterfry123"
+  220  git config --local user.email "bradsh24@byu.edu"
+  221  git add --all
+  222  git commit -m "initial commit"
+  224  git add -all
+  225  git add --all
+  226  git commit -m "initial commit"
+  227  git init
+  228  git remote add origin git@bitbucket.org:sterfry123/volume1.git
+  229  git add --all
+  230  git commit -m "initial commit"
+  233  git remote set-url origin git@bitbucket.org:sterfry123/volume1.git
+  234  git add --all
+  235  git commit -m "initial commit"
+  236  git push origin master
+  239  git add --all
+  240  git init
+  241  git remote add origin git@bitbucket.org:sterfry123/volume2.git
+  242  git config --local user.name "sterfry123"
+  243  git config --local user.email "bradsh24@byu.edu"
+  244  git add --all
+  245  git commit -m "initial commit"
+  246  git push origin master
+  398  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  399  git --version
+  400  git --version
+  433  git clone https://github.com/Sterfry123/Sterfry123.github.io
+  436  cd Sterfry123/Sterfry123.github.io
+  437  cd Sterfry123.github.io
+  439  git add --all
+  440  git commit -m "Initial commit"
+  441  git push -u origin main
+  443  git push -u origin main
+  444  git push -u origin main
+  446  git push -u origin main
+  479  git config user.name
+  480  git config --global user.name "Sterling Bradshaw'\n"
+  481  git config user.name
+  482  git config --global user.name "Sterling Bradshaw"
+  483  git config user.name
+  484  git config --global user.email "bradshaw.sterling@gmail.com"
+  485  git config user.email
+  486  git config code.editor
+  487  git config --global code.editor "code --wait"
+  488  git config code.editor
+  489  git config --global init.defaultBranch main
+  490  git config init.defaultBranch
+  510  git init
+  511  git status
+  512  git --version
+  519  git init
+  526  history 0 | grep "git" > git_commands.txt
+  530  git status
+  538  git init
+  543  git status
+  544  git add statistics.txt
+  545  git status
+  546  git commit -m
+  547  git commit -a =m
+  548  git commit -m "statistics.txt"
+  549  git status
+  550  git log
+  551  git log --oneline
+  553  git status
+  554  git status
+  555  git commit -a -m 'Added curriculum ideas'
+  556  git status
+  559  git add
+  560  git add .
+  561  git status
+  562  git commit -m "add history curriculum ideas"
+  563  git log
+  564  git log --oneline
+  567  touch .gitignore
+  572  rm .gitignore
+  574  git add .gitignore
+  575  git status
+  576  git commit -m 'create .gitignore'
+  578  git status
+  579  git status
+  581  git remote -v
+  588  git log
+  596  history | grep 'git' > git_commands.txt
+  598  history 0 | grep 'git' > git_commands.txt
